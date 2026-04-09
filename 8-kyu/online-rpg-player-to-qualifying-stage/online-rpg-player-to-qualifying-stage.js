@@ -5,7 +5,5 @@
   return false;
 }
 ​
-// Example usage:
-console.log(playerRankUp(105)); // "Well done! You have advanced to the qualifying stage..."
-console.log(playerRankUp(99));  // false
+console.log(playerRankUp(105)); 
 ​
