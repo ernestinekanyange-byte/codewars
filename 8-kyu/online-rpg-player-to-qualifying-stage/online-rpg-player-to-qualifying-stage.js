@@ -5,6 +5,7 @@
   return false;
 }
 ​
+​
 console.log(playerRankUp(105)); 
 ​
 ​
