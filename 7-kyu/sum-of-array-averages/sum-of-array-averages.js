@@ -6,12 +6,10 @@ for (const array of arrays) {
 for (const num of array) {
       innerSum += num;
     }
-​
 let average = innerSum / array.length;
     sum += average;
   }
-​
-  return sum;
+return sum;
 }
     
   
